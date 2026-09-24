@@ -1,5 +1,5 @@
 "","commune_station","w_typ","w_typ_de","station_symbol","quant_class","quant_class_radiant","longitude","latitude","type_ouvrage","niveau_categorie","niveau_categorie_de","tendance_7j_fr","tendance_7j_de"
-"1","Areuse - St-Sulpice","cours d'eau",NA,1,1,0,6.55889467174402,46.9106329688718,"cours d'eau","Bas (< 10e perzentile)","Tief (<10. Perzentil)","Stable (7 derniers jours)","Gleichbleibend (letzte 7 Tage)"
+"1","Areuse - St-Sulpice","cours d'eau","Bach",1,1,0,6.55889467174402,46.9106329688718,"cours d'eau","Bas (< 10e perzentile)","Tief (<10. Perzentil)","Stable (7 derniers jours)","Gleichbleibend (letzte 7 Tage)"
 "2","Basel","puits","Förderbrunnen",1,1,4.71239,7.5702962297676,47.5555043611785,"puits","Bas (< 10e perzentile)","Tief (<10. Perzentil)","En baisse (7 derniers jours)","Sinkend (letzte 7 Tage)"
 "3","Bettwil","puits","Förderbrunnen",1,1,6.28319,8.26728769462514,47.2851020937942,"puits","Bas (< 10e perzentile)","Tief (<10. Perzentil)","Stable (7 derniers jours)","Gleichbleibend (letzte 7 Tage)"
 "4","Brittnau","puits","Förderbrunnen",1,1,6.28319,7.94546272207173,47.2754603135225,"puits","Bas (< 10e perzentile)","Tief (<10. Perzentil)","Stable (7 derniers jours)","Gleichbleibend (letzte 7 Tage)"
